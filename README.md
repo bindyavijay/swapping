@@ -11,6 +11,6 @@ int main(){
 	temp=a;
 	a=b;
 	b=temp;
-  printf("value after swaping %d and %d",a,b);
+        printf("value after swaping %d and %d",a,b);
 	return 0;
 	}
